@@ -20,7 +20,7 @@
 - Update Functionality for items 
 - Read and Delete functionality for items 
 
-###Requirements 
+### Requirements 
 - Laravel 5.8 
 - MySQL
 
